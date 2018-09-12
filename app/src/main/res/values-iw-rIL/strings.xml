@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phone_number_text">מספר טלפון</string>
+    <string name="first_name_text">שם</string>
+    <string name="last_name_text">שם משפחה</string>
+    <string name="first_use_text">שימוש ראשון: מלא כמה פרטים</string>
+    <string name="submit_details">התחל</string>
+    <string name="submit_position">שלח מיקום</string>
+    <string name="send_location_description_text">"לחץ על הכפתור כדי לדווח מיקום "</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phone_number_text">Phone Number</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="first_use_text">First Use: Fill up some details</string>
+    <string name="submit_details">Let\'s start</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="submit_position">Send Location</string>
+    <string name="send_location_description_text">Press the button to report the locaion</string>
+</resources>
